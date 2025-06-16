@@ -1,3 +1,4 @@
+![Glint Demo](assets/demo.png)
 > "Precision in Motion. Insight in Every Move."
 # What is Glint?
 **Glint** is a modern chess UI powered by neural network analysis, delivering **real-time evaluation of each move** as you play. Whether you’re refining your tactics or training for tournaments, Glint offers a seamless interface, instant feedback, and sonic cues — all wrapped in an elegant, minimalist design.
